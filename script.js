@@ -1,0 +1,3 @@
+function KirimData(event) {
+
+}
