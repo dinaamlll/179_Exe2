@@ -10,3 +10,9 @@ h1 {
 p{
     text-align: center;
 }
+.btn {
+    background-color: #ff69b4; 
+    color: #fff; 
+    border: none;
+    transition: all 0.3s ease;
+}
