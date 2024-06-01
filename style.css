@@ -19,3 +19,9 @@ p{
 .btn:hover {
     background-color: #ff1493; 
 }
+.media {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; 
+}
