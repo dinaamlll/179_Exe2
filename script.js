@@ -7,5 +7,10 @@ function KirimData(event) {
     var opinion = document.querySelector('input[name="opinion"]:checked').value;
     var comment = document.getElementById("comment").value;
 
-    
+    alert("Nama: " + name + "\n" +
+          "Email: " + email + "\n" +
+          "Tanggal Lahir: " + dob + "\n" +
+          "Genre Musik Favorit: " + favoriteGenre + "\n" +
+          "Opini tentang lagu 'Kupu-kupu' - Tiara Andini: " + opinion + "\n" +
+          "Komentar Tambahan: " + comment);
 }
