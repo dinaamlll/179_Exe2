@@ -16,3 +16,6 @@ p{
     border: none;
     transition: all 0.3s ease;
 }
+.btn:hover {
+    background-color: #ff1493; 
+}
